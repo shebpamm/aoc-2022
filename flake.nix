@@ -29,7 +29,9 @@
             rust-analyzer
             rustup
             bashInteractive
+            openssl.dev
             pkg-config
+            lldb
           ];
         });
     };
